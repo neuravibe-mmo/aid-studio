@@ -505,3 +505,18 @@ Parts of the admin framework are based on [RuoYi-Vue](https://gitee.com/y_projec
 | Community | Thanks |
 |------|------|
 | <a href="https://linux.do/"><img src="https://cdn3.ldstatic.com/original/4X/c/c/d/ccd8c210609d498cbeb3d5201d4c259348447562.png" alt="Linux.do" width="64"></a> | Thank you to the [Linux.do](https://linux.do/) community for supporting Chinese-language technical discussion and the open-source ecosystem. |
+
+
+LÀM PHIM NGẮN AI DỄ DÀNG HƠN VỚI AID STUDIO – GOM CẢ QUY TRÌNH SẢN XUẤT PHIM VÀO MỘT NƠI!
+Bạn đang muốn làm phim ngắn AI, phim hoạt hình AI nhưng phải sử dụng quá nhiều công cụ khác nhau? 🎬
+AID Studio là dự án mã nguồn mở đáng để bạn khám phá! 🚀
+✨ Những công việc có thể thực hiện trên cùng một nền tảng:
+✅ Viết kịch bản bằng AI
+✅ Tạo nhân vật và bối cảnh
+✅ Tự động phân cảnh thông minh
+✅ Tạo hình ảnh và video bằng AI
+✅ Lồng tiếng bằng AI
+✅ Xem trước và kiểm tra thành phẩm
+Đặc biệt, bạn còn có thể kết nối các mô hình AI từ nhiều nhà cung cấp khác nhau cho từng công đoạn.
+💡 Thay vì phải chuyển đổi liên tục giữa nhiều công cụ, bạn có thể quản lý phần lớn quy trình sản xuất phim AI ngay trong một không gian làm việc.
+Nếu bạn đang xây dựng kênh phim ngắn AI, làm video kể chuyện hoặc sáng tạo nội dung bằng AI, đây là một dự án rất đáng tìm hiểu!
